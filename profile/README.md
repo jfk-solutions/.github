@@ -6,8 +6,8 @@ We provide librays for for accessing data files of siemens PLC software, like TI
 
 # contact
 
-mail: info@jfk-solutions.de
-url: http://jfk-solutions.de
+ - mail: info@jfk-solutions.de
+ - url: http://jfk-solutions.de
 
 # location 
 
